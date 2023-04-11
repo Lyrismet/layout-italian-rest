@@ -765,7 +765,7 @@ footer .container{
     font-size: 1.6em;
     transition: 0.5s;
     display: none; 
-    height: 0%;
+    height: 0;
   }
   nav ul{
     transition: 0.5s;
@@ -776,7 +776,7 @@ footer .container{
   nav li{
     transition: 0.5s;
     display: block;
-    height: 0%;
+    height: 0;
   }
   .bars a{
     transition: 0.5s;
@@ -830,7 +830,7 @@ footer .container{
     float: none;
   }
   .fa-quote-left{
-    margin: -12px 0 - 12px 0;
+    margin: -12px 0 -12px 0;
   }
   .title{
     text-align: center;
