@@ -57,7 +57,7 @@ a {
 }
 
 .pad-head {
-    padding: 3em 3em 0 3em;
+    padding: 0 3em 0 3em;
 }
 
 .flex-between {
@@ -105,6 +105,8 @@ a {
 }
 
 .logo {
+    display: flex;
+    align-items: center;
     width: 268px;
     height: 111px;
     background-color: #2e2d2d;
