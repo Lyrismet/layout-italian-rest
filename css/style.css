@@ -128,8 +128,15 @@ a {
     font-family: Economica;
     display: inline-block;
     border-left: 1px solid lightgray;
-}
 
+}
+@media screen and (max-width: 768px) {
+    .logo h2{
+        line-height: 27px;
+    }
+
+
+}
 .header-container {
     position: relative;
 }
